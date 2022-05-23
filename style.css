@@ -1,0 +1,19 @@
+body
+{
+    background-position: center;
+    background-size: cover;
+}
+
+button
+{
+font-size: 20px;
+width: 200px;
+border-radius: 30px;
+background-color: white;
+color: black;
+}
+
+.back
+{
+    font-size: 40px;
+}
